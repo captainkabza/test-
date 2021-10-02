@@ -44,7 +44,7 @@ class _HomePageState extends State<HomePage> {
           children: [
             DrawerHeader(
               decoration: BoxDecoration(
-                color: Colors.red,
+                color: Colors.lightBlueAccent,
               ),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
@@ -54,16 +54,16 @@ class _HomePageState extends State<HomePage> {
                     child: Container(
                       width: 80.0,
                       height: 80.0,
-                      child: Image.asset('assets/images/tem.jpg'),
+                      child: Image.asset('assets/images/69.jpg'),
                     ),
                   ),
 
                   Text(
-                    'Sasithorn Thipphrom',
+                    'Nonthakorn Janchey',
                     style: TextStyle(fontSize: 20.0, color: Colors.white),
                   ),
                   Text(
-                    'Thipphrom_s@silpakorn.edu',
+                    'Janchey_n@silpakorn.edu',
                     style: TextStyle(fontSize: 15.0, color: Colors.white),
                   ),
                 ],

@@ -13,7 +13,7 @@ class LoginPage extends StatefulWidget {
 }
 
 class _LoginPageState extends State<LoginPage> {
-  static const pin = '130843';
+  static const pin = '123456';
   var input = '';
 
   @override

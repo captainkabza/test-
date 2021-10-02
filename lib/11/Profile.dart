@@ -14,16 +14,16 @@ class ProfilePage extends StatelessWidget {
             child: Container(
               width: 200.0,
               height: 200.0,
-              child: Image.asset('assets/images/tem.jpg'),
+              child: Image.asset('assets/images/69.jpg'),
             ),
           ),
           SizedBox(height: 10.0),
           Text(
-            'Sasithorn Thipphrom',
+            'Nonthakorn Janchey',
             style: Theme.of(context).textTheme.headline1,
           ),
           Text(
-            'Thipphrom_s@silpakorn.edu',
+            'Janchey_n@silpakorn.edu',
             style: TextStyle(
                 fontSize: 15.0,
                 color: Colors.black54,
